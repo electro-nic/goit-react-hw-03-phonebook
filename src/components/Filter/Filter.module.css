@@ -1,0 +1,19 @@
+.input {
+  display: flex;
+  width: 300px;
+  font-size: 13px;
+  border: 3px solid #cadfcf;
+  padding: 0.6em;
+  border-radius: 4px;
+  background: #fefefe;
+  color: #231f20;
+  margin: 15px;
+}
+
+.label {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 500;
+  flex-direction: column;
+}
